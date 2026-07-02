@@ -1,35 +1,28 @@
-# Main-Craft-Internship
-# Main Craft Internship - Task 1
+# SQL Data Analysis Internship
 
-## 👨‍💻 Author
-**Anshul Dhiman**
+This repository contains all internship tasks completed during the SQL Data Analysis Internship.
 
-## 📌 Project Overview
-This repository contains the SQL solution for Task 1 of the Main Craft Internship.
+## Tools Used
 
-## 🎯 Objective
-- Design the database schema.
-- Create tables using SQL.
-- Insert sample data.
-- Execute SQL queries.
-- Store query result screenshots.
-
-## 🛠️ Technologies Used
 - MySQL Workbench
-- GitHub
+- SQL
+- Git & GitHub
 
-## 📂 Repository Contents
-- `Task1.sql` – SQL script containing table creation, data insertion, and queries.
-- `screenshots/` – Screenshots of query execution and results.
+## Tasks
 
-## ▶️ How to Run
-1. Open MySQL Workbench.
-2. Execute `Task1.sql`.
-3. Verify the outputs.
-4. Refer to the screenshots for expected results.
+### Task 1
+- Student Management Database
+- CRUD Operations
+- Basic SQL Queries
 
-## 📷 Deliverables
-- SQL Script ✔️
-- Database Schema ✔️
-- Query Results ✔️
-- Screenshots ✔️
+### Task 2
+- Courses Table
+- Enrollments Table
+- SQL Joins
+- GROUP BY
+- Aggregate Functions
+- Top Students Analysis
+
+## Author
+
+Anshul Dhiman
